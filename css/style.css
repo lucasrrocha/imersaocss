@@ -1,6 +1,7 @@
 body {
-  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
-  background-size: auto 100vh;
+  background: url(/img/onoff.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: 'Arial';
 }
 
