@@ -1,7 +1,7 @@
 body {
-  background: url(/img/onoff.gif);
+  background-image: url(/img/onoff.gif);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto auto;
   font-family: 'Arial';
 }
 
